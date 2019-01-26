@@ -16,7 +16,7 @@ As mentioned our goal is to predict the fare of taxi ride.Two important preproce
 2. Break NYC into clusters(regions) It is a Time-Series forecasting and regression problem.<br/>
 # Performance metrics :<br/>
 1. Mean Absolute percentage error(MAPE). 2. Mean Squared error(MSE).<br/>
-#Model Summary:
+# Model Summary:
 
 |       Model       |   Train error   |   Test error   |
 |--|--|--|
